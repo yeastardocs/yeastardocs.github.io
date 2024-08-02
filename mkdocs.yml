@@ -1,1 +1,7 @@
 site_name: 风格指南
+nav:
+  - file.md
+  - 图片：
+    - icon.md
+    -typology.md
+    -typology.md
