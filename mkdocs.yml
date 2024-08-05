@@ -3,6 +3,9 @@ site_name: 风格指南 # 项目名称
 # 配置
 theme:
   name: material # 主题名称，Material已经是最优秀的选择了，相信我。
+  logo: img/logo.png
+  palette:
+        primary: blue
   icon:
     admonition:
       note: octicons/tag-16
@@ -25,6 +28,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+# 自定义样式
+extra_css:
+  - resources/extra.css
 nav:
     - 文件规范: 'file.md'
     - 图片规范:
