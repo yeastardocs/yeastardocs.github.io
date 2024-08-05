@@ -6,3 +6,6 @@
 .md-nav__title {
     color: #101f3a;
 }
+.md-typeset .admonition,.md-typeset details {
+    margin: 0.5em 2em; 
+}
