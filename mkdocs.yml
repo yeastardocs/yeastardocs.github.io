@@ -4,6 +4,7 @@ site_name: 风格指南 # 项目名称
 theme:
   name: material # 主题名称，Material已经是最优秀的选择了，相信我。
   logo: img/logo.png
+  favicon: img/favicon.ico
   palette:
         primary: blue
   icon:
