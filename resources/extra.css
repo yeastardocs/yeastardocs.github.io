@@ -1,0 +1,15 @@
+.md-typeset h1 {
+    color: #101f3a;
+    font-size: 2em;
+    line-height: 1.1em;
+}
+.md-nav__title {
+    color: #101f3a;
+}
+.md-typeset .admonition,.md-typeset details {
+    margin: 0.5em 2em; 
+}
+
+
+  
+  
